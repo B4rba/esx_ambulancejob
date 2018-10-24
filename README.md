@@ -4,6 +4,10 @@
 
 - [esx_ambulancejob](https://github.com/ESX-Org/esx_ambulancejob)
 
+## Added
+* mission
+* death screen
+
 ## Requirements
 
 * Auto mode
@@ -12,6 +16,12 @@
 * Player management (boss actions **There is no way to earn money for now**)
    - [esx_society](https://github.com/ESX-Org/esx_society)
 
-## Added
-* mission
-* death screen
+## Installation
+- Import `esx_ambulancejob.sql` in your database
+- If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
+- Add this in your `server.cfg`:
+
+```
+start esx_ambulancejob
+```
+
