@@ -6,6 +6,7 @@
 
 ## Added
 * Mission
+* Billing
 * Death Screen
 
 ## Requirements
@@ -13,8 +14,10 @@
 * Auto mode
    - [esx_skin](https://github.com/ESX-Org/esx_skin)
 
-* Player management (boss actions **There is no way to earn money for now**)
+* Player management
    - [esx_society](https://github.com/ESX-Org/esx_society)
+   - [esx_billing](https://github.com/FXServer-ESX/fxserver-esx_billing)
+   
 
 ## Installation
 - Import `esx_ambulancejob.sql` in your database
