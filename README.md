@@ -5,8 +5,8 @@
 - [esx_ambulancejob](https://github.com/ESX-Org/esx_ambulancejob)
 
 ## Added
-* mission
-* death screen
+* Mission
+* Death Screen
 
 ## Requirements
 
